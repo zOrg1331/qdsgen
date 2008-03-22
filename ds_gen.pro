@@ -17,8 +17,7 @@ HEADERS += ./muParser/muParserBase.h \
 	   ./muParser/muParserToken.h \
 	   ./muParser/muParserTokenReader.h
 
-HEADERS += translate.h \
-    zchart.h \
+HEADERS += zchart.h \
     zframes.h \
     parser.h \
     ds_gen.h
